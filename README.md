@@ -17,7 +17,7 @@
 
 ## Interesting links :heavy_check_mark:
 
-- :link: [books-lectures](https://github.com/norbeydanilo/desarrollo-web/tree/main/books-lectures) See the folder in the repository to find some books and lectures of interest.
+- :link: [books-lectures](https://github.com/norbeydanilo/arquitectura-software-web/tree/main/books-lectures) See the folder in the repository to find some books and lectures of interest.
 
 ## About :octocat:
 
