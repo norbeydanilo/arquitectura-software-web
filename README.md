@@ -17,7 +17,7 @@
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
-## Exercices :notebook:
+## Exercises :notebook:
 
 This unit does not include exercises.
 
